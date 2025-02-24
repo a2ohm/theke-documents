@@ -1,9 +1,9 @@
 ---
 title: Quas Primas
 published: true
-date: 2025-02-24 22:35:27.014519
+date: 2025-02-24 22:38:50.435039
 editor: mardown
-dateCreated: 2025-02-24 22:35:27.014529
+dateCreated: 2025-02-24 22:38:50.435050
 ---
 
 title: Quas Primas
@@ -14,9 +14,7 @@ source_uri: https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p
 
 ---
 
-***QUAS PRIMAS***
-
-LETTRE ENCYCLIQUE DE SA SAINTETÉ LE PAPE PIE XI DE L'INSTITUTION D'UNE FÊTE DU CHRIST-ROI.
+*Lettre encycloque de sa sainteté le pape Pie XI de l'institution d'une fête du Christ-Roi.*
 
 *Aux Patriarches, Primats, Archevêques, Evêques et autres ordinaires de lieu, en paix et communion avec le Siège apostolique.*
 
