@@ -2,10 +2,18 @@
 title: Spe salvi
 description: Sur l'espérance chrétienne.
 published: true
-date: 2025-02-24T15:39:20.231Z
+date: 2025-02-24T20:35:43.158Z
 tags: encyclique
 editor: markdown
 dateCreated: 2025-02-24T15:16:53.684Z
+---
+
+title: Spe Salvi
+author: Benoît XVI
+date_of_publication: 30 novembre 2007
+source_name: Vatican.va
+source_uri: https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+
 ---
 
 *Lettre encyclique **Spe Salvi** du souverain pontife **Benoît XVI** aux évêques, aux prêtres et aux diacres, aux personnes consacrées et à tous les fidèles laïcs sur l'espérance chrétienne.*

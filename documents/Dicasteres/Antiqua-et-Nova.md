@@ -1,3 +1,13 @@
+---
+title: Antiqua et Nova
+description: Note sur les relations entre l'intelligence artificielle et l'intelligence humaine.
+published: true
+date: 2025-02-24T16:45:42.067Z
+tags: 
+editor: markdown
+dateCreated: 2025-02-24T16:44:17.069Z
+---
+
 DICASTERE POUR LA DOCTRINE DE LA FOI / DICASTERE POUR LA CULTURE ET L’ÉDUCATION
 
 *Note sur les relations entre l'intelligence artificielle et l'intelligence humaine.*
