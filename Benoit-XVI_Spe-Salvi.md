@@ -1,9 +1,9 @@
 ---
 title: Spe salvi
-description: 
+description: Sur l'espérance chrétienne.
 published: true
-date: 2025-02-24T15:28:20.175Z
-tags: 
+date: 2025-02-24T15:33:11.294Z
+tags: encyclique
 editor: markdown
 dateCreated: 2025-02-24T15:16:53.684Z
 ---
